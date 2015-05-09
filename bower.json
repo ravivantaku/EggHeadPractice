@@ -1,0 +1,23 @@
+{
+  "name": "EggheadIoAngularjs",
+  "version": "0.0.0",
+  "description": "Angular Practise in Eggheadio",
+  "keywords": [
+    "Angular",
+    "Gulp",
+    "Bower",
+    "Eggheadio"
+  ],
+  "authors": [
+    "vravi"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
